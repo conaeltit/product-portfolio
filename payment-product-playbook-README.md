@@ -42,7 +42,8 @@ payment-product-playbook/
 
 ### Ecosistema de pagos en Chile
 - Rol de Transbank como adquirente dominante
-- Khipu y la transferencia bancaria como diferenciador local
+- Nuevos actores en el ecosistema de Chile y LatAm
+- Klap y la transferencia bancaria como diferenciador local
 - PIX como oportunidad cross-border con Brasil
 - Regulación CMF y PCI-DSS en la práctica
 
@@ -50,14 +51,14 @@ payment-product-playbook/
 - Por qué el 3DS bien implementado sube conversión (no la baja)
 - Tokenización de red vs tokenización de gateway
 - Quick Checkout: la diferencia entre frictionless y fast
-- Multiadquirencia como palanca de resiliencia
+- Multiadquirencia como palanca de resiliencia y smart-routing
 
 ### Suscripciones y pagos recurrentes
-- Débito automático PAT: cómo funciona en Chile
-- Diseño del ciclo de vida de una suscripción
+- Débito automático PAT: cómo funciona en Chile y cómo optimizar la seguridad y conversión
+- Diseño del ciclo de vida de una suscripción y adaptación a distintos clientes y usuarios
 - Dunning logic: cuándo reintentar y cómo comunicarlo
 - 97% de conversión no es magia, es diseño de estados
-
+ 
 ### POS presencial como producto
 - SmartPOS: por qué el hardware importa menos que el software
 - Integración con el SII: boleta electrónica como diferenciador
