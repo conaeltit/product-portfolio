@@ -1,7 +1,7 @@
 # Constanza Eltit Cruz · Senior Product Manager 
 
 **Building payment infrastructure for Chile & LatAm**  
-Past: Head of Products & Innovation @ [VirtualPOS](https://www.virtualpos.cl/) · Santiago, Chile 🇨🇱 · 2023 - 2026
+Past: Head of Products & Innovation @ [VirtualPOS](https://www.virtualpos.cl/) · Santiago, Chile 🇨🇱 · jun 2023 - dic 2025
 
 ---
 
