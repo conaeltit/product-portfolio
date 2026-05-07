@@ -34,14 +34,14 @@ Me muevo bien entre discovery con usuarios, specs técnicas para engineers, y co
 ## 🛠 Stack de producto
 
 **Discovery & Diseño**  
-`Figma` `Figma` `Hotjar` `Notion` `Miro`
+`Figma` `Hotjar` `Notion` `Miro`
 
 **Delivery & Ejecución**  
 `Linear` `Jira` `GitHub` `Confluence`
 
 **Dominio técnico**  
 `APIs REST` `OpenAPI / Swagger` `Webhooks` `3DS 2.x` `Tokenización de red`  
-`PCI-DSS` `PAT / Débito automático` `Transbank` `Khipu` `PIX (Banco Central Brasil)`
+`PCI-DSS` `PAT / Débito automático` `Transbank` `Klap` `PIX (Banco Central Brasil)`
 
 **Integraciones**  
 `VTEX` `Jumpseller` `Magento` `Prestashop` `WooCommerce`
